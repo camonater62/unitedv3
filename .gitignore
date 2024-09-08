@@ -1,3 +1,4 @@
 /__pycache__
 /db.64
 /venv
+*.pem
